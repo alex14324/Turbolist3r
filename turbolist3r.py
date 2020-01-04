@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 # Turbolist3r
-# By Carl Pearson - github.com/fleetcaptain
-# Based on Sublist3r code created by Ahmed Aboul-Ela - twitter.com/aboul3la
+# By Carl Pearson - github.com/alex14324
+# Based on Sublist3r code created by   - github.com/alex14324
 #
 
 
@@ -96,8 +96,8 @@ def banner():
             | | | \_| | |  | |_) | () || | \__ \ |_ ___) | |
             |_|  \____|_|  |_.__/\____/|_|_|___/\__|____/|_|%s%s
 
-          # Based on Sublist3r by Ahmed Aboul-Ela - @aboul3la
-          # Forked by Carl Pearson - github.com/fleetcaptain
+          # Based on Sublist3r by White Hat HAcks - @alex14324
+          # Forked by Dinu Reddy - github.com/alex14324
     """ % (R, W, Y))
 
 
