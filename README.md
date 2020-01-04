@@ -114,18 +114,7 @@ sudo yum install python-argparse
 sudo pip install argparse
 ```
 
-## License
-
-Turbolist3r is licensed under the GNU GPL license. take a look at the [LICENSE](https://github.com/fleetcaptain/Turbolist3r/blob/master/LICENSE) for more information.
-
-Respect legal restrictions and only conduct testing against infrastructure that you have permission to target.
-
-## Credits
-
-* [aboul3la](https://github.com/aboul3la/sublist3r) - The creator of **Sublist3r**; turbolist3r adds some features but is otherwise a near clone of sublist3r. 
-* [TheRook](https://github.com/TheRook/) - The bruteforce module was based on his script **subbrute**.
-* [bitquark](https://github.com/bitquark) - The Subbrute's wordlist was based on his research **dnspop**.
 
 ## Thanks
 
-* Thank you to [aboul3la](https://github.com/aboul3la/) for releasing sublist3r, an incredible subdomain discovery tool!
+* Thank you to [alex14324](https://github.com/alex14324/) for releasing sublist3r, an incredible subdomain discovery tool!
